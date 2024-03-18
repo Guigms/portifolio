@@ -5,13 +5,14 @@
 }
 
 :root {
+  background: url(./assets/bg-desktop.jpg);
   --text-color: white;
 }
 
-body {
+/*body {
   background: url(./assets/bg-desktop.jpg);
 }
-
+*/
 body * {
   font-family: "Inter", sans-serif;
   color: var(--text-color);
